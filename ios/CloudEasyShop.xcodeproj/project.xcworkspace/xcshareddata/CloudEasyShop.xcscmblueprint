@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3a46fb4d-30ae-e045-b6dc-fd4c8aac7bf9++8983",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "3a46fb4d-30ae-e045-b6dc-fd4c8aac7bf9++8983" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3a46fb4d-30ae-e045-b6dc-fd4c8aac7bf9++8983" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "884E7D00-CB08-4FB8-A99F-6D0A85BF2804",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3a46fb4d-30ae-e045-b6dc-fd4c8aac7bf9++8983" : "CloudEasyShop\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CloudEasyShop",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/CloudEasyShop.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/www.kmdx.cn:8011\/svn\/kmdx",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3a46fb4d-30ae-e045-b6dc-fd4c8aac7bf9++8983"
+    }
+  ]
+}
